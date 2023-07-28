@@ -12,6 +12,8 @@ imagem do projeto
 
 - É importante ressaltar que este projeto é voltado exclusivamente para fins educacionais e de aprendizado.
 
+- É um projeto simples apenas para estudo, então não espere muito desse codigo porque e apenas para estudo!
+
 ### get started project
 
     # clone o repositorio
